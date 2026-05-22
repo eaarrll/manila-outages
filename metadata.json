@@ -1,0 +1,6 @@
+{
+  "name": "Manila Outages",
+  "description": "Metro Manila scheduled power & water interruption tracker and crowdsourced outage map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
